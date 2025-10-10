@@ -22,16 +22,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const fritz = {
-    location: "Indonesia 🇮🇩",
-    currentFocus: "Building scalable web applications & ML models",
-    learning: ["Advanced ML Techniques", "Cloud Architecture", "System Design"],
-    hobbies: ["Coding", "Data Analysis", "Problem Solving", "Tech Blogging"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 💡 What I Do
@@ -114,65 +104,6 @@ const fritz = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fritzkmanurung&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzkmanurung&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/fritzkmanurung/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fritzkmanurung&repo=another-cool-project&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/fritzkmanurung/another-cool-project)
-
-</div>
-
-> 💡 **Note:** Replace the repo names above with your actual featured projects!
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-  ```text
-  💻 This Week's Coding Time
-  
-  Python        8 hrs 30 mins   ███████████░░░░░   45.2%
-  JavaScript    5 hrs 15 mins   ████████░░░░░░░░   28.0%
-  PHP           3 hrs 20 mins   ████░░░░░░░░░░░░   17.8%
-  SQL           1 hr 40 mins    ██░░░░░░░░░░░░░░    9.0%
-  ```
-  
-</div>
-
----
-
-## 🎯 My Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fritzkmanurung/fritzkmanurung/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -183,14 +114,6 @@ const fritz = {
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
   [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-username)
   
-</div>
-
----
-
-## 🎨 Profile Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fritzkmanurung&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -207,21 +130,6 @@ const fritz = {
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  *"The only way to do great work is to love what you do."* - Steve Jobs
-  
-  ---
-  
-  ### Show some ❤️ by starring some of my repositories!
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue?style=for-the-badge)
-  
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
