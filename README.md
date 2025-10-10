@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Space!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fritz%20Manurung&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fritz%20Kevin%20Manurung&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
 </div>
 
 <div align="center">
