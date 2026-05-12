@@ -15,12 +15,17 @@
 
 ## About Me
 
+<img align="right" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation"/>
+
 I'm a full-stack developer with a strong interest in data science and machine learning. I enjoy building clean web applications, transforming data into useful insights, and continuously expanding my technical skillset.
 
 **Currently focused on:**
 - Cloud deployment with AWS & Azure
 - MLOps and model deployment
 - Contributing to open-source projects
+
+<br/>
+<br/>
 
 ---
 
