@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fritz%20Kevin%20Manurung&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
+
 
 <div align="center">
 
